@@ -1,0 +1,16 @@
+{
+  "name": "altabot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "dotenv": "^10.0.0",
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.7.0",
+    "openai": "^3.0.0",
+    "telegraf": "^3.40.0"
+  }
+}
